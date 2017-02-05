@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Converts Form object for Json object",
   "main": "index.js",
+  "repository":{
+     "url" : "https://github.com/pavliha/form"
+  },
   "scripts": {
     "test": "npm test"
   },
